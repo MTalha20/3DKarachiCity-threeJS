@@ -1,0 +1,46 @@
+Group 14-A => 3d Karachi City Assignment Contributions:
+
+**Texture Loading And Positioning:
+Roads Texture
+Broken Roads Texture
+RoadBoundary Texture
+FootPath Texture
+Wall Texture
+Wall Chaliking Texture
+Grass Texture
+Building Texture 
+
+B19102100 - Muhmmad Talha
+B19102072 - Muhammad Bilal Ibrahim
+
+----------------------------------
+
+**Geometry Building And Positioning:
+
+City Surface
+Building Geometry
+Wall Geometry
+Footpath Geometry
+RoundAbout Geometry
+Sphere Geometry
+
+B19102058 - Muhammad Abdullah
+B19102071 - Muhammad Basit Mukhtar
+B19102081 - Muhammad Muslim
+
+---------------------------------
+
+**Camera , Orbital Working and Sphere animation :
+
+B19102094 - Muhammad Shahzaib Hassan
+
+--------------------------------
+
+Folder Details:
+
+index.html is the root directory/main of the program 
+styles.css is the css styling file
+practice.js contains the code of 3d city
+OrbitControls is the orbit library of camera
+three.module.js is the three js module library
+
