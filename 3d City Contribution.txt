@@ -40,7 +40,7 @@ Folder Details:
 
 index.html is the root directory/main of the program 
 styles.css is the css styling file
-practice.js contains the code of 3d city
+city.js contains the code of 3d city
 OrbitControls is the orbit library of camera
 three.module.js is the three js module library
 
